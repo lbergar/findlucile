@@ -1,0 +1,380 @@
+.jumbotron{
+    background-image: url(banniere4.jpg);
+    background-size: cover;
+    height: 450px;
+    margin: auto;
+    margin-top: 1px;
+    }
+
+.my_story_banner{
+    background-color: #E7F7F9;
+    background-size: cover;
+  }
+ul#menu_right li{
+  font-size:18px;
+  font-family: "nunito", "helvetica", sans-serif;
+  color : #678;
+  display: inline;
+  padding : 0.6em; 
+  opacity: 0.8;
+}
+
+ul#menu_right{
+  list-style-type : none;
+  text-align: right;
+  margin: auto;
+  height: 30px;
+}
+
+a{
+  color : #678;
+  text-decoration: none;
+}
+
+.jumbotron p{
+    font-family: 'Geneva', sans-serif;
+    font-weight: 1000;
+    font-size: 98px;
+    padding-top: 200px;
+    letter-spacing : 0.05em;
+    margin-top : inherit;
+    text-align: center;
+    color:#d0edea;
+    opacity: 0.7;
+    }
+.photo_profil{
+ border-radius: 100%;
+ width: 230px;
+ opacity: 0.9;
+}
+
+.hello{
+    font-family: "nunito", "helvetica", sans-serif;
+    font-size: 38px;
+    font-weight: 500;
+    letter-spacing : 0.05em;
+    margin-left: 20px;
+    text-align: center;
+}
+
+/* Petite presentation au debut */
+
+.story{
+    font-family: "nunito", "helvetica", sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 1.4;
+    letter-spacing : 0.1em;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+}
+
+/* les ronds */
+.rond {
+ width:30px;
+ height:30px;
+ border-radius:50%;
+ background:#d0edea;
+ margin:10px auto;
+ float:left; 
+
+}
+.rond1 {
+ width:30px;
+ height:30px;
+ border-radius:50%;
+ background:pink;
+ margin:10px auto;
+ float:left; 
+ margin-left: 10px;
+ margin-right: 10px;
+}
+
+.rond2 {
+ width:30px;
+ height:30px;
+ border-radius:50%;
+ background:#d0edea;
+ margin:10px auto;
+ float:left; 
+}
+.circles{
+ width:110px; /* 3 éléments de 100px */
+ margin:0 auto; /* centrage horizontal */
+}
+
+/* experience */
+
+h1{
+    font-family: "nunito", "helvetica", sans-serif;
+    font-size: 35px;
+    letter-spacing : 0.05em;
+    text-align: center;
+    color : darkslategray;
+}
+
+h2, h3{
+    font-family: "nunito", "helvetica", sans-serif;
+}
+
+h3{
+    font-size: 16px;
+    font-weight: 300;
+    color: dimgrey;
+}
+
+h2{
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    margin-bottom: 1px;
+    margin-top: 20px;
+}
+
+table .experience{
+    text-align: left;
+    margin: auto;
+}
+
+.interfax_logo{
+    width: 120px;
+    float:left; 
+} 
+.infosys_logo{
+    width: 120px;
+    float:left; 
+} 
+.socgen_logo{
+    width: 120px;
+    float:left; 
+} 
+
+.description {
+    font-family: "nunito", "helvetica", sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    text-align: justify;
+    line-height: 1.5;
+    }  
+    
+/* Education */
+
+.iae_logo{
+    width: 100px;
+    float:left; 
+} 
+.unicaen_logo{
+    width: 100px;
+    float:left; 
+} 
+
+/* Skills */
+
+table{
+    text-align: left;
+    margin:auto;
+    width: 50%
+}
+
+td{
+    font-size: 18px;
+    font-family: "nunito", "helvetica", sans-serif;
+}
+
+.rond_table_plein {
+ width:20px;
+ height:20px;
+ border-radius:50%;
+ background:pink;
+ float: left; 
+ margin-left: 3px;
+}
+
+.rond_table_vide {
+ width:20px;
+ height:20px;
+ border-radius:50%;
+ background:#F9E7ED;
+ float: left; 
+ margin-left: 3px;
+}
+
+.break{
+    width: 10%;
+    }
+
+/* Language */
+
+.rond_table_bleu {
+ width:20px;
+ height:20px;
+ border-radius:50%;
+ background:#d0edea;
+ float: left; 
+ margin-left: 3px;
+}
+
+.rond_table_bleuclair {
+ width:20px;
+ height:20px;
+ border-radius:50%;
+ background:#E7F7F9;
+ float: left; 
+ margin-left: 3px;
+}
+
+/* footer */
+
+ul#download_contact li{
+  font-size:20px;
+  font-family: "nunito", "helvetica", sans-serif;
+  font-weight: 600;
+  opacity: 0.7;
+  display: inline;
+  padding: 7px;
+  margin-top: 100px;
+}
+
+ul#download_contact{
+  text-align: center;
+}
+
+#pink_square{
+    background-color: #d0edea;
+    height: 30px;
+}
+.sm_logo{
+    width: 40px;}
+
+.copyright{
+  text-align: right;
+  color: black;
+  margin: 20px;
+  }
+/* WORK PAGE */
+
+.banniere_work{
+    background-image: url(banniere_work.jpg);
+    background-size: cover;
+    height: 450px;
+    margin: auto;
+    margin-top: 1px;
+    }
+
+.big_title{
+    font-family: 'Geneva', sans-serif;
+    font-weight: 1000;
+    font-size: 98px;
+    padding-top: 150px;
+    letter-spacing : 0.05em;
+    margin-top : inherit;
+    text-align: center;
+    color:pink;
+    opacity: 0.7;
+    }
+
+.interfax_brochure{
+    width: 150px; }
+
+.shieldq_brochure{
+    width: 150px; }
+
+.flyer{
+    width: 150px; }
+
+ul#work li{
+  font-size:18px;
+  font-family: "nunito", "helvetica", sans-serif;
+  color : #678;
+  display: inline;
+  padding : 2em;   
+}
+
+ul#work{
+  list-style-type : none;
+  text-align: left;
+}
+
+.my_work{
+  font-family: "nunito", "helvetica", sans-serif;
+  font-weight: 200;
+  font-size: 22px;
+  text-align: center;
+  color: white;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.description_work{
+    font-family: "nunito", "helvetica", sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    text-align: left;
+    line-height: 1.5;
+    position: absolute;
+    display:inline;
+    margin-right: 70px;
+    padding-top: 40px;
+}
+
+ul#work h2{
+    display:inline;  
+    position: absolute;
+}
+
+/* PHOTOGRAPHY PAGE */
+
+.banniere_work{
+    background-image: url(banniere_work.jpg);
+    background-size: cover;
+    height: 450px;
+    margin: auto;
+    margin-top: 1px;
+    }
+
+.big_title_photo{
+    font-family: 'Geneva', sans-serif;
+    font-weight: 1000;
+    font-size: 98px;
+    margin-left: 20px;
+    padding-top: 250px;
+    letter-spacing : 0.05em;
+    margin-top : inherit;
+    text-align: center;
+    color:#d0edea;
+    opacity: 0.7;
+    }
+
+
+/* effet au passage de la souris */
+
+.fond_image img{
+moz-transition: opacity 0.9s;
+webkit-transition: opacity 0.9s;
+o-transition: opacity 0.9s;
+}
+
+.fond_image img:hover{
+opacity:0.8;
+moz-transition: opacity 0.7s;
+webkit-transition: opacity 0.7s;
+o-transition: opacity 0.7s;
+}
+
+.premiere_photo{
+    padding: 50px;
+    width: 450px;}
+
+.photos{
+    max-width: 950px;
+    padding: 15px;
+}
+.photos_square{
+    max-width: 600px;
+    padding: 15px;
+}
+.color_photos{
+   background-color: pink;
+   height: 50px;
+}
